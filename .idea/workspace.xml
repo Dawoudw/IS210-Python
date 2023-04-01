@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e4ab2c3-a8e2-42fe-a8e0-38a27c489f31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/w10/adam_dawoud_w10.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/IS210-PyProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IS210-PyProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/w2/w2UsingList.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/w2/w2UsingList.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w8/adam_dawoud_w8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/w8/adam_dawoud_w8.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="5e4ab2c3-a8e2-42fe-a8e0-38a27c489f31" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +131,7 @@
       <workItem from="1680206801179" duration="2980000" />
       <workItem from="1680265623747" duration="995000" />
       <workItem from="1680266650125" duration="914000" />
-      <workItem from="1680267830822" duration="7699000" />
+      <workItem from="1680267830822" duration="8256000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1675314756213</created>
